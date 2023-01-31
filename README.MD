@@ -4,8 +4,6 @@
 
 壁纸采集自 360壁纸库、必应首页的每日图片以及金山词霸开放平台
 
-相关原理见 [https://mkblog.cn/581/](https://mkblog.cn/581/)  和  [https://mkblog.cn/492/](https://mkblog.cn/492/)
-
 **本作品禁止任何形式的倒卖，转载请注明出处！**
 
 ### TODO
